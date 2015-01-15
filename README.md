@@ -1,4 +1,4 @@
-# MoneyPluginManagement
+# MPM
 
 マネープラグインの違いを気にせず使えるようにするライブラリ?です。<br/>
 
