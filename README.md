@@ -106,5 +106,3 @@ http://opensource.org/licenses/mit-license.php
 また以下のサイトに参考日本語訳もあります。
 あくまでも参考なので必ず原文もご確認ください。
 http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license
-=======
->>>>>>> 5ed7dd5897c54912f63da04efd8a0ff0a969ac1c
