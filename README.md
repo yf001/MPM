@@ -99,10 +99,10 @@ public function onEnable() {
 ```
 <<<<<<< HEAD
 #ライセンス
-このライブラリは、MITライセンスのもとで公開されています。
-ライセンスの詳細についてはLICENSEファイルまたは以下のサイトで確認できます。
-The MIT License
-http://opensource.org/licenses/mit-license.php
-また以下のサイトに参考日本語訳もあります。
-あくまでも参考なので必ず原文もご確認ください。
-http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license
+このライブラリは、MITライセンスのもとで公開されています。<br/>
+ライセンスの詳細についてはLICENSEファイルまたは以下のサイトで確認できます。<br/>
+The MIT License<br/>
+http://opensource.org/licenses/mit-license.php<br/>
+また以下のサイトに参考日本語訳もあります。<br/>
+あくまでも参考なので必ず原文もご確認ください。<br/>
+http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license<br/>
