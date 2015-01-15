@@ -11,10 +11,10 @@
 use pocketmine\Server;
 
 class MPM{
-
-	private static $API = 1.0.0;
+	
 	private static $obj = null;
-	private static $MoneyPlugin = null;
+	public static $API = 1.0.0;
+	public static $MoneyPlugin = null;
 	
 	public function __construct(){
 		if(!self::$obj instanceof MPM){
@@ -53,7 +53,7 @@ class MPM{
 	}
 	
 	/**
-	 * @param int $money
+	 * @param int|string $money
 	 *
 	 * @return string
 	 */
